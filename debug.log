@@ -1,0 +1,1085 @@
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2016-11-17T01:32:10.799Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Working directory: \u001b[35m~/WangLingYu.github.io/\u001b[39m","time":"2016-11-17T01:32:10.811Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Config loaded: \u001b[35m~/WangLingYu.github.io/_config.yml\u001b[39m","time":"2016-11-17T01:32:10.933Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2016-11-17T01:32:10.949Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2016-11-17T01:32:10.951Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2016-11-17T01:32:10.953Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2016-11-17T01:32:10.955Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2016-11-17T01:32:10.957Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2016-11-17T01:32:10.958Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2016-11-17T01:32:10.962Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2016-11-17T01:32:10.968Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2016-11-17T01:32:11.068Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Loading database.","time":"2016-11-17T01:32:11.076Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":30,"msg":"Start processing","time":"2016-11-17T01:32:11.148Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35msource/debug.log\u001b[39m","time":"2016-11-17T01:32:11.225Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:32:11.255Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/First.md\u001b[39m","time":"2016-11-17T01:32:11.255Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35msource/main.css\u001b[39m","time":"2016-11-17T01:32:11.294Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Theme config loaded.","time":"2016-11-17T01:32:11.314Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-11-17T01:32:11.320Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/debug.log\u001b[39m","time":"2016-11-17T01:32:11.321Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35msource/fonts/default-skin.svg\u001b[39m","time":"2016-11-17T01:32:11.321Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.ttf\u001b[39m","time":"2016-11-17T01:32:11.322Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.eot\u001b[39m","time":"2016-11-17T01:32:11.323Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.svg\u001b[39m","time":"2016-11-17T01:32:11.323Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.woff\u001b[39m","time":"2016-11-17T01:32:11.324Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35msource/main.js\u001b[39m","time":"2016-11-17T01:32:11.324Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer1.png\u001b[39m","time":"2016-11-17T01:32:11.333Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer2.png\u001b[39m","time":"2016-11-17T01:32:11.333Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer5.png\u001b[39m","time":"2016-11-17T01:32:11.333Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/archive.ejs\u001b[39m","time":"2016-11-17T01:32:11.363Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/.DS_Store\u001b[39m","time":"2016-11-17T01:32:11.363Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/category.ejs\u001b[39m","time":"2016-11-17T01:32:11.363Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/layout.ejs\u001b[39m","time":"2016-11-17T01:32:11.364Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/index.ejs\u001b[39m","time":"2016-11-17T01:32:11.365Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/page.ejs\u001b[39m","time":"2016-11-17T01:32:11.365Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/post.ejs\u001b[39m","time":"2016-11-17T01:32:11.366Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/tag.ejs\u001b[39m","time":"2016-11-17T01:32:11.366Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer4.png\u001b[39m","time":"2016-11-17T01:32:11.377Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer3.png\u001b[39m","time":"2016-11-17T01:32:11.377Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:32:11.377Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlanguages/fr.yml\u001b[39m","time":"2016-11-17T01:32:11.378Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlanguages/no.yml\u001b[39m","time":"2016-11-17T01:32:11.378Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2016-11-17T01:32:11.378Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlanguages/nl.yml\u001b[39m","time":"2016-11-17T01:32:11.379Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2016-11-17T01:32:11.379Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-CN.yml\u001b[39m","time":"2016-11-17T01:32:11.379Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-tw.yml\u001b[39m","time":"2016-11-17T01:32:11.379Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/after-footer.ejs\u001b[39m","time":"2016-11-17T01:32:11.406Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive.ejs\u001b[39m","time":"2016-11-17T01:32:11.406Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article.ejs\u001b[39m","time":"2016-11-17T01:32:11.406Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive-post.ejs\u001b[39m","time":"2016-11-17T01:32:11.407Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/footer.ejs\u001b[39m","time":"2016-11-17T01:32:11.407Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/google-analytics.ejs\u001b[39m","time":"2016-11-17T01:32:11.407Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/header.ejs\u001b[39m","time":"2016-11-17T01:32:11.408Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/head.ejs\u001b[39m","time":"2016-11-17T01:32:11.408Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/left-col.ejs\u001b[39m","time":"2016-11-17T01:32:11.408Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/mathjax.ejs\u001b[39m","time":"2016-11-17T01:32:11.408Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/mobile-nav.ejs\u001b[39m","time":"2016-11-17T01:32:11.408Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/tools.ejs\u001b[39m","time":"2016-11-17T01:32:11.411Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/viewer.ejs\u001b[39m","time":"2016-11-17T01:32:11.411Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/category.ejs\u001b[39m","time":"2016-11-17T01:32:11.417Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/duoshuo.ejs\u001b[39m","time":"2016-11-17T01:32:11.417Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/title.ejs\u001b[39m","time":"2016-11-17T01:32:11.417Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/share_jia.ejs\u001b[39m","time":"2016-11-17T01:32:11.417Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/date.ejs\u001b[39m","time":"2016-11-17T01:32:11.418Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/nav.ejs\u001b[39m","time":"2016-11-17T01:32:11.418Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/share_addthis.ejs\u001b[39m","time":"2016-11-17T01:32:11.418Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/tag.ejs\u001b[39m","time":"2016-11-17T01:32:11.418Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35msource/images/photo.jpeg\u001b[39m","time":"2016-11-17T01:32:11.421Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/images/debug.log\u001b[39m","time":"2016-11-17T01:32:11.424Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:32:11.627Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:32:11.627Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:32:11.627Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:32:11.627Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:32:11.627Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:32:11.628Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:32:11.628Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2016-11-17T01:32:11.632Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Database saved","time":"2016-11-17T01:32:11.641Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:33:45.296Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:33:45.434Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:33:45.434Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:33:45.434Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:33:45.434Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:33:45.435Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:33:45.435Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:33:45.435Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:33:45.701Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:33:45.822Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:33:45.822Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:33:45.822Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:33:45.822Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:33:45.823Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:33:45.823Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:33:45.823Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:33:46.066Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:33:46.183Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:33:46.183Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:33:46.184Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:33:46.184Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:33:46.184Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:33:46.184Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:33:46.184Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-11-17T01:33:57.220Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:33:58.194Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:34:02.466Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:34:03.049Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:35:30.372Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:35:30.529Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:35:30.530Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:35:30.530Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:35:30.530Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:35:30.530Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:35:30.530Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:35:30.531Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:35:37.866Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:35:38.366Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:36:14.458Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:36:14.588Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:36:14.588Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:36:14.588Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:36:14.589Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:36:14.589Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:36:14.589Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:36:14.590Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:36:16.348Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:36:17.038Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:36:18.352Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:36:18.948Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:36:38.286Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:36:38.408Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:36:38.410Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:36:38.410Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:36:38.410Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:36:38.410Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:36:38.410Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:36:38.411Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:36:38.911Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:36:39.032Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:36:39.032Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:36:39.032Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:36:39.033Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:36:39.033Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:36:39.033Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:36:39.033Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:36:40.773Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:36:41.287Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:36:46.444Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:36:46.565Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:36:46.565Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:36:46.565Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:36:46.566Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:36:46.566Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:36:46.566Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:36:46.566Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:36:47.681Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:36:48.046Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:37:13.136Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:37:13.263Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:37:13.263Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:37:13.263Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:37:13.263Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:37:13.263Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:37:13.263Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:37:13.264Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:37:16.646Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:37:17.419Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:37:30.629Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:37:30.745Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:37:30.745Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:37:30.745Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:37:30.745Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:37:30.745Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:37:30.745Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:37:30.746Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:37:33.537Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:37:33.650Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:37:33.650Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:37:33.650Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:37:33.650Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:37:33.650Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:37:33.651Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:37:33.654Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:37:34.565Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:37:35.189Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:38:02.739Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:38:02.857Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:38:02.858Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:38:02.858Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:38:02.858Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:38:02.858Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:38:02.858Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:38:02.859Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:38:03.946Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:38:04.813Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:38:04.961Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:38:05.739Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:39:48.524Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:39:48.663Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:39:48.663Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:39:48.664Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:39:48.664Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:39:48.664Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:39:48.664Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:39:48.665Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:39:49.899Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:39:50.651Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:41:24.979Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:41:25.097Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:41:25.097Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:41:25.097Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:41:25.097Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:41:25.097Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:41:25.097Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:41:25.098Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:41:27.490Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:41:27.984Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:41:42.745Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:41:42.864Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:41:42.864Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:41:42.864Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:41:42.864Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:41:42.864Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:41:42.864Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:41:42.864Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:41:45.457Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:41:45.972Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:42:04.885Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:42:05.025Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:42:05.025Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:42:05.025Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:42:05.025Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:42:05.026Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:42:05.026Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:42:05.027Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:42:06.033Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:42:06.545Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:42:19.381Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:42:19.530Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:42:19.531Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:42:19.532Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:42:19.532Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:42:19.533Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:42:19.533Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:42:19.535Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:42:20.247Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:42:20.744Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:42:25.304Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:42:25.428Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:42:25.428Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:42:25.429Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:42:25.429Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:42:25.429Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:42:25.429Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:42:25.429Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:42:26.305Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:42:26.926Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:42:28.605Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:42:29.211Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:42:40.310Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:42:40.446Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:42:40.446Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:42:40.447Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:42:40.447Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:42:40.447Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:42:40.447Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:42:40.447Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:42:41.208Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:42:41.753Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:42:43.245Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:42:43.578Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:42:53.759Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:42:53.878Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:42:53.879Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:42:53.879Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:42:53.879Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:42:53.879Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:42:53.879Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:42:53.879Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:42:54.755Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:42:55.307Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:42:56.041Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:42:56.371Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:43:03.772Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:43:03.892Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:43:03.892Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:43:03.892Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:43:03.893Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:43:03.893Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:43:03.893Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:43:03.894Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:43:04.796Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:43:05.203Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:43:09.260Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:43:09.377Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:43:09.377Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:43:09.377Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:43:09.377Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:43:09.377Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:43:09.378Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:43:09.379Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:43:10.287Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:43:10.689Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:43:10.984Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:43:11.516Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:43:15.132Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:43:15.244Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:43:15.245Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:43:15.245Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:43:15.245Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:43:15.245Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:43:15.245Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:43:15.245Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:43:16.209Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:43:16.903Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:43:17.135Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:43:17.772Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:43:28.658Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:43:28.778Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:43:28.778Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:43:28.778Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:43:28.778Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:43:28.778Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:43:28.779Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:43:28.779Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:43:29.626Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:43:30.077Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:43:49.446Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:43:49.570Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:43:49.570Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:43:49.570Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:43:49.571Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:43:49.571Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:43:49.571Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:43:49.571Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:44:01.814Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:44:01.933Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:44:01.933Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:44:01.933Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:44:01.933Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:44:01.933Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:44:01.933Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:44:01.933Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:44:03.113Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:44:03.695Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:44:18.539Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:44:18.659Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:44:18.659Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:44:18.659Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:44:18.659Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:44:18.659Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:44:18.660Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:44:18.660Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:44:19.627Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:44:20.091Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:44:26.209Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:44:26.335Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:44:26.335Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:44:26.336Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:44:26.336Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:44:26.336Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:44:26.336Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:44:26.336Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:44:32.289Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:44:32.409Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:44:32.409Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:44:32.409Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:44:32.409Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:44:32.409Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:44:32.409Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:44:32.410Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:44:33.354Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:44:33.839Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:44:38.773Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:44:38.894Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:44:38.894Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:44:38.894Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:44:38.894Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:44:38.894Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:44:38.894Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:44:38.894Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:44:39.855Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:44:40.424Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:44:49.131Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:44:49.252Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:44:49.252Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:44:49.252Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:44:49.252Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:44:49.252Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:44:49.252Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:44:49.252Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:44:50.157Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:44:50.741Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:44:53.131Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:44:53.248Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:44:53.248Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:44:53.248Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:44:53.248Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:44:53.248Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:44:53.248Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:44:53.248Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:45:06.653Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:45:06.774Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:45:06.774Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:45:06.774Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:45:06.774Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:45:06.774Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:45:06.774Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:45:06.774Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:45:07.820Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:45:08.354Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:45:22.580Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:45:22.716Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:45:22.717Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:45:22.717Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:45:22.717Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:45:22.717Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:45:22.717Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:45:22.718Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:45:23.422Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:45:23.837Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:45:27.416Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:45:27.535Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:45:27.535Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:45:27.535Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:45:27.535Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:45:27.535Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:45:27.535Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:45:27.536Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:45:28.577Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:45:28.950Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:45:39.549Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:45:39.668Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:45:39.669Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:45:39.669Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:45:39.669Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:45:39.669Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:45:39.669Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:45:39.669Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:45:40.572Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:45:40.971Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:45:46.705Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:45:46.825Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:45:46.825Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:45:46.825Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:45:46.825Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:45:46.825Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:45:46.826Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:45:46.826Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:45:50.039Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:45:50.394Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:45:55.816Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:45:55.938Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:45:55.938Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:45:55.939Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:45:55.939Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:45:55.939Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:45:55.939Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:45:55.939Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T01:45:56.750Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:45:57.182Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:46:19.173Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:46:19.298Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:46:19.298Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:46:19.298Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:46:19.298Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:46:19.298Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:46:19.298Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:46:19.298Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T01:46:21.051Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:46:21.166Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:46:21.166Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:46:21.166Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:46:21.166Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:46:21.166Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:46:21.166Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:46:21.167Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:46:28.847Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:46:28.964Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:46:28.964Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:46:28.964Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:46:28.964Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:46:28.965Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:46:28.965Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:46:28.966Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-11-17T01:48:13.658Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:48:13.992Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:48:16.337Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:48:16.743Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:48:42.847Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:48:42.964Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:48:42.964Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:48:42.964Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:48:42.964Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:48:42.965Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:48:42.965Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:48:42.965Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:48:52.420Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:48:52.902Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:48:59.237Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:48:59.361Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:48:59.362Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:48:59.362Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:48:59.362Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:48:59.363Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:48:59.363Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:48:59.364Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:49:00.132Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:49:00.470Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:49:04.115Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:49:04.230Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:49:04.230Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:49:04.230Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:49:04.230Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:49:04.231Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:49:04.231Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:49:04.231Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:49:04.983Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:49:05.290Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:49:06.519Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:49:06.859Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:49:08.734Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:49:08.853Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:49:08.853Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:49:08.853Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:49:08.854Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:49:08.854Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:49:08.854Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:49:08.854Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:49:12.199Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:49:12.314Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:49:12.315Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:49:12.315Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:49:12.315Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:49:12.315Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:49:12.315Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:49:12.315Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:49:13.012Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:49:13.339Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:50:00.825Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:50:00.945Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:50:00.946Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:50:00.946Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:50:00.946Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:50:00.946Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:50:00.946Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:50:00.946Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:50:06.266Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:50:06.707Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:50:11.220Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:50:11.337Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:50:11.337Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:50:11.337Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:50:11.337Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:50:11.337Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:50:11.337Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:50:11.338Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:50:12.204Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:50:12.579Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:50:17.928Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:50:18.047Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:50:18.047Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:50:18.047Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:50:18.047Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:50:18.047Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:50:18.047Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:50:18.047Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:50:18.905Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:50:19.265Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:50:25.854Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:50:25.972Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:50:25.972Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:50:25.972Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:50:25.973Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:50:25.973Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:50:25.973Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:50:25.974Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:50:27.363Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:50:27.695Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:50:29.506Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:50:29.877Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:50:33.635Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:50:33.752Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:50:33.752Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:50:33.752Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:50:33.752Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:50:33.753Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:50:33.753Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:50:33.753Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:50:34.750Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:50:35.349Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:50:39.380Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:50:39.494Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:50:39.494Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:50:39.494Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:50:39.494Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:50:39.494Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:50:39.495Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:50:39.495Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:50:40.375Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:50:40.754Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:51:57.452Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:51:57.568Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:51:57.569Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:51:57.569Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:51:57.569Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:51:57.569Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:51:57.569Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:51:57.569Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:52:07.130Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:52:07.257Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:52:07.257Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:52:07.257Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:52:07.257Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:52:07.257Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:52:07.258Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:52:07.259Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:52:26.560Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:52:26.675Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:52:26.675Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:52:26.675Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:52:26.675Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:52:26.675Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:52:26.675Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:52:26.676Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:52:28.147Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:52:29.256Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:54:50.158Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:54:50.295Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:54:50.295Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:54:50.295Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:54:50.295Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:54:50.295Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:54:50.296Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:54:50.296Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:54:53.352Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:54:53.816Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:55:19.891Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:55:20.010Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:55:20.010Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:55:20.010Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:55:20.010Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:55:20.010Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:55:20.011Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:55:20.012Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:55:21.212Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:55:21.707Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:57:01.992Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:57:02.110Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:57:02.110Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:57:02.110Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:57:02.110Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:57:02.110Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:57:02.110Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:57:02.111Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:57:04.005Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:57:04.491Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:57:13.465Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:57:13.582Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:57:13.582Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:57:13.582Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:57:13.582Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:57:13.582Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:57:13.582Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:57:13.583Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:57:15.605Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:57:15.968Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:57:24.957Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:57:25.077Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:57:25.077Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:57:25.077Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:57:25.077Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:57:25.077Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:57:25.077Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:57:25.078Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:57:34.979Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:57:35.098Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:57:35.098Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:57:35.098Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:57:35.099Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:57:35.099Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:57:35.099Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:57:35.099Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T01:57:36.857Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T01:57:37.328Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T01:58:40.047Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T01:58:40.167Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T01:58:40.167Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T01:58:40.167Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T01:58:40.167Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T01:58:40.167Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T01:58:40.167Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T01:58:40.168Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:00:48.276Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:00:48.415Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:00:48.415Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:00:48.415Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:00:48.415Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:00:48.415Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:00:48.415Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:00:48.415Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-11-17T02:00:52.838Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:00:53.205Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:00:55.711Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:00:56.686Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:01:45.780Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:01:45.922Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:01:45.922Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:01:45.922Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:01:45.922Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:01:45.922Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:01:45.922Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:01:45.922Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:01:47.529Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:01:47.979Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:01:58.270Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:01:58.403Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:01:58.403Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:01:58.403Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:01:58.403Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:01:58.403Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:01:58.403Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:01:58.404Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:02:01.857Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:02:01.992Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:02:01.993Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:02:01.993Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:02:01.993Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:02:01.993Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:02:01.993Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:02:01.993Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:02:03.081Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:02:03.570Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:02:09.942Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:02:10.085Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:02:10.085Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:02:10.085Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:02:10.085Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:02:10.085Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:02:10.085Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:02:10.085Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:02:11.197Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:02:11.811Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:02:22.609Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:02:22.756Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:02:22.757Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:02:22.757Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:02:22.757Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:02:22.757Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:02:22.757Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:02:22.757Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:02:24.107Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:02:24.544Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:02:30.579Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:02:30.715Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:02:30.715Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:02:30.715Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:02:30.715Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:02:30.715Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:02:30.715Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:02:30.715Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:02:31.778Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:02:32.403Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:02:40.250Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:02:40.388Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:02:40.388Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:02:40.388Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:02:40.388Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:02:40.388Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:02:40.388Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:02:40.388Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:02:41.204Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:02:41.745Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:02:52.688Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:02:52.818Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:02:52.818Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:02:52.819Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:02:52.819Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:02:52.819Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:02:52.819Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:02:52.819Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:02:53.776Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:02:54.249Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:03:23.413Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:03:23.552Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:03:23.552Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:03:23.552Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:03:23.552Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:03:23.552Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:03:23.552Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:03:23.553Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:03:26.070Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:03:26.903Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:03:38.435Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:03:38.570Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:03:38.571Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:03:38.571Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:03:38.571Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:03:38.571Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:03:38.571Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:03:38.571Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:03:40.105Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:03:40.734Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:05:07.491Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:05:07.629Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:05:07.629Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:05:07.629Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:05:07.629Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:05:07.629Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:05:07.629Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:05:07.629Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:05:11.336Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:05:11.479Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:05:11.479Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:05:11.479Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:05:11.479Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:05:11.479Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:05:11.479Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:05:11.480Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:05:13.707Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:05:14.427Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:05:20.342Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:05:20.477Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:05:20.477Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:05:20.477Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:05:20.477Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:05:20.477Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:05:20.477Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:05:20.478Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:19:20.299Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:19:20.449Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:19:20.449Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:19:20.449Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:19:20.449Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:19:20.449Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:19:20.449Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:19:20.450Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:19:21.316Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:19:22.022Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:22:51.365Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:22:51.516Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:22:51.516Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:22:51.516Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:22:51.516Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:22:51.516Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:22:51.516Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:22:51.517Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:22:52.529Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:22:53.517Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:23:54.364Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:23:54.509Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:23:54.509Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:23:54.509Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:23:54.509Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:23:54.510Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:23:54.510Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:23:54.510Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T02:23:55.594Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:23:56.473Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":30,"msg":"Bye!","time":"2016-11-17T02:24:08.507Z","v":0}
+{"name":"hexo","hostname":"ChenWang.local","pid":21808,"level":20,"msg":"Database saved","time":"2016-11-17T02:24:08.546Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2016-11-17T02:50:47.880Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Working directory: \u001b[35m~/WangLingYu.github.io/\u001b[39m","time":"2016-11-17T02:50:47.883Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Config loaded: \u001b[35m~/WangLingYu.github.io/_config.yml\u001b[39m","time":"2016-11-17T02:50:48.007Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2016-11-17T02:50:48.024Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2016-11-17T02:50:48.027Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2016-11-17T02:50:48.029Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2016-11-17T02:50:48.031Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2016-11-17T02:50:48.035Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2016-11-17T02:50:48.036Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2016-11-17T02:50:48.042Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2016-11-17T02:50:48.045Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2016-11-17T02:50:48.142Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Loading database.","time":"2016-11-17T02:50:48.150Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":30,"msg":"Start processing","time":"2016-11-17T02:50:48.158Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35msource/debug.log\u001b[39m","time":"2016-11-17T02:50:48.219Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35msource/main.css\u001b[39m","time":"2016-11-17T02:50:48.261Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Theme config loaded.","time":"2016-11-17T02:50:48.276Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-11-17T02:50:48.277Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35m_posts/debug.log\u001b[39m","time":"2016-11-17T02:50:48.279Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.eot\u001b[39m","time":"2016-11-17T02:50:48.285Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35msource/fonts/default-skin.svg\u001b[39m","time":"2016-11-17T02:50:48.285Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.svg\u001b[39m","time":"2016-11-17T02:50:48.286Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.ttf\u001b[39m","time":"2016-11-17T02:50:48.286Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.woff\u001b[39m","time":"2016-11-17T02:50:48.287Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35msource/main.js\u001b[39m","time":"2016-11-17T02:50:48.288Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer1.png\u001b[39m","time":"2016-11-17T02:50:48.305Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer2.png\u001b[39m","time":"2016-11-17T02:50:48.305Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer5.png\u001b[39m","time":"2016-11-17T02:50:48.305Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/.DS_Store\u001b[39m","time":"2016-11-17T02:50:48.332Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/archive.ejs\u001b[39m","time":"2016-11-17T02:50:48.332Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/page.ejs\u001b[39m","time":"2016-11-17T02:50:48.333Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/category.ejs\u001b[39m","time":"2016-11-17T02:50:48.333Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/index.ejs\u001b[39m","time":"2016-11-17T02:50:48.333Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/layout.ejs\u001b[39m","time":"2016-11-17T02:50:48.334Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/tag.ejs\u001b[39m","time":"2016-11-17T02:50:48.335Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/post.ejs\u001b[39m","time":"2016-11-17T02:50:48.335Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2016-11-17T02:50:48.355Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlanguages/no.yml\u001b[39m","time":"2016-11-17T02:50:48.356Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlanguages/fr.yml\u001b[39m","time":"2016-11-17T02:50:48.356Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlanguages/nl.yml\u001b[39m","time":"2016-11-17T02:50:48.356Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2016-11-17T02:50:48.356Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-CN.yml\u001b[39m","time":"2016-11-17T02:50:48.356Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-tw.yml\u001b[39m","time":"2016-11-17T02:50:48.356Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35m_posts/First.md\u001b[39m","time":"2016-11-17T02:50:48.357Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T02:50:48.366Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T02:50:48.367Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer3.png\u001b[39m","time":"2016-11-17T02:50:48.367Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer4.png\u001b[39m","time":"2016-11-17T02:50:48.367Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/after-footer.ejs\u001b[39m","time":"2016-11-17T02:50:48.433Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive.ejs\u001b[39m","time":"2016-11-17T02:50:48.434Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive-post.ejs\u001b[39m","time":"2016-11-17T02:50:48.435Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article.ejs\u001b[39m","time":"2016-11-17T02:50:48.435Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/footer.ejs\u001b[39m","time":"2016-11-17T02:50:48.436Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/google-analytics.ejs\u001b[39m","time":"2016-11-17T02:50:48.437Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/head.ejs\u001b[39m","time":"2016-11-17T02:50:48.437Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/header.ejs\u001b[39m","time":"2016-11-17T02:50:48.438Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/left-col.ejs\u001b[39m","time":"2016-11-17T02:50:48.439Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/mathjax.ejs\u001b[39m","time":"2016-11-17T02:50:48.440Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/mobile-nav.ejs\u001b[39m","time":"2016-11-17T02:50:48.440Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/tools.ejs\u001b[39m","time":"2016-11-17T02:50:48.440Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/viewer.ejs\u001b[39m","time":"2016-11-17T02:50:48.440Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35m_posts/images/debug.log\u001b[39m","time":"2016-11-17T02:50:48.451Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/date.ejs\u001b[39m","time":"2016-11-17T02:50:48.458Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/duoshuo.ejs\u001b[39m","time":"2016-11-17T02:50:48.459Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/category.ejs\u001b[39m","time":"2016-11-17T02:50:48.459Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/nav.ejs\u001b[39m","time":"2016-11-17T02:50:48.459Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/share_addthis.ejs\u001b[39m","time":"2016-11-17T02:50:48.459Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/title.ejs\u001b[39m","time":"2016-11-17T02:50:48.460Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/share_jia.ejs\u001b[39m","time":"2016-11-17T02:50:48.460Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/tag.ejs\u001b[39m","time":"2016-11-17T02:50:48.460Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Processed: \u001b[35msource/images/photo.jpeg\u001b[39m","time":"2016-11-17T02:50:48.465Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T02:50:48.781Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T02:50:48.782Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T02:50:48.782Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T02:50:48.782Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T02:50:48.782Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T02:50:48.782Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T02:50:48.782Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2016-11-17T02:50:48.787Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Database saved","time":"2016-11-17T02:50:48.796Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-11-17T02:50:54.318Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:50:55.590Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++函数问题/index.html\u001b[39m","time":"2016-11-17T02:51:25.019Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T02:51:25.987Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":30,"msg":"Good bye","time":"2016-11-17T02:51:34.008Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22564,"level":20,"msg":"Database saved","time":"2016-11-17T02:51:34.025Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2016-11-17T03:07:29.094Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Working directory: \u001b[35m~/WangLingYu.github.io/\u001b[39m","time":"2016-11-17T03:07:29.099Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Config loaded: \u001b[35m~/WangLingYu.github.io/_config.yml\u001b[39m","time":"2016-11-17T03:07:29.236Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2016-11-17T03:07:29.255Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2016-11-17T03:07:29.258Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2016-11-17T03:07:29.260Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2016-11-17T03:07:29.263Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2016-11-17T03:07:29.264Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2016-11-17T03:07:29.268Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2016-11-17T03:07:29.270Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2016-11-17T03:07:29.277Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2016-11-17T03:07:29.385Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Loading database.","time":"2016-11-17T03:07:29.396Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":30,"msg":"Start processing","time":"2016-11-17T03:07:29.407Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35msource/debug.log\u001b[39m","time":"2016-11-17T03:07:29.483Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35msource/main.css\u001b[39m","time":"2016-11-17T03:07:29.547Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Theme config loaded.","time":"2016-11-17T03:07:29.562Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-11-17T03:07:29.562Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/debug.log\u001b[39m","time":"2016-11-17T03:07:29.564Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35msource/fonts/default-skin.svg\u001b[39m","time":"2016-11-17T03:07:29.573Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.eot\u001b[39m","time":"2016-11-17T03:07:29.573Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.svg\u001b[39m","time":"2016-11-17T03:07:29.574Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.ttf\u001b[39m","time":"2016-11-17T03:07:29.575Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.woff\u001b[39m","time":"2016-11-17T03:07:29.575Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35msource/main.js\u001b[39m","time":"2016-11-17T03:07:29.576Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer1.png\u001b[39m","time":"2016-11-17T03:07:29.595Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer2.png\u001b[39m","time":"2016-11-17T03:07:29.596Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer5.png\u001b[39m","time":"2016-11-17T03:07:29.596Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/.DS_Store\u001b[39m","time":"2016-11-17T03:07:29.619Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/category.ejs\u001b[39m","time":"2016-11-17T03:07:29.619Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/archive.ejs\u001b[39m","time":"2016-11-17T03:07:29.619Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/index.ejs\u001b[39m","time":"2016-11-17T03:07:29.619Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/layout.ejs\u001b[39m","time":"2016-11-17T03:07:29.622Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/page.ejs\u001b[39m","time":"2016-11-17T03:07:29.623Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/post.ejs\u001b[39m","time":"2016-11-17T03:07:29.624Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/tag.ejs\u001b[39m","time":"2016-11-17T03:07:29.624Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2016-11-17T03:07:29.646Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlanguages/fr.yml\u001b[39m","time":"2016-11-17T03:07:29.646Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlanguages/no.yml\u001b[39m","time":"2016-11-17T03:07:29.646Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlanguages/nl.yml\u001b[39m","time":"2016-11-17T03:07:29.646Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2016-11-17T03:07:29.646Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-tw.yml\u001b[39m","time":"2016-11-17T03:07:29.646Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-CN.yml\u001b[39m","time":"2016-11-17T03:07:29.646Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/First.md\u001b[39m","time":"2016-11-17T03:07:29.647Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/C++函数问题.md\u001b[39m","time":"2016-11-17T03:07:29.651Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T03:07:29.652Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer3.png\u001b[39m","time":"2016-11-17T03:07:29.652Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/images/C++Pointer4.png\u001b[39m","time":"2016-11-17T03:07:29.653Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive.ejs\u001b[39m","time":"2016-11-17T03:07:29.685Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/after-footer.ejs\u001b[39m","time":"2016-11-17T03:07:29.685Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive-post.ejs\u001b[39m","time":"2016-11-17T03:07:29.686Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article.ejs\u001b[39m","time":"2016-11-17T03:07:29.686Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/footer.ejs\u001b[39m","time":"2016-11-17T03:07:29.686Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/head.ejs\u001b[39m","time":"2016-11-17T03:07:29.686Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/google-analytics.ejs\u001b[39m","time":"2016-11-17T03:07:29.687Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/left-col.ejs\u001b[39m","time":"2016-11-17T03:07:29.687Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/header.ejs\u001b[39m","time":"2016-11-17T03:07:29.687Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/mathjax.ejs\u001b[39m","time":"2016-11-17T03:07:29.688Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/mobile-nav.ejs\u001b[39m","time":"2016-11-17T03:07:29.688Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/tools.ejs\u001b[39m","time":"2016-11-17T03:07:29.688Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/viewer.ejs\u001b[39m","time":"2016-11-17T03:07:29.688Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/nav.ejs\u001b[39m","time":"2016-11-17T03:07:29.699Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/category.ejs\u001b[39m","time":"2016-11-17T03:07:29.699Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/date.ejs\u001b[39m","time":"2016-11-17T03:07:29.699Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/duoshuo.ejs\u001b[39m","time":"2016-11-17T03:07:29.699Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/share_jia.ejs\u001b[39m","time":"2016-11-17T03:07:29.699Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/title.ejs\u001b[39m","time":"2016-11-17T03:07:29.699Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/share_addthis.ejs\u001b[39m","time":"2016-11-17T03:07:29.700Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/tag.ejs\u001b[39m","time":"2016-11-17T03:07:29.700Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35msource/images/photo.jpeg\u001b[39m","time":"2016-11-17T03:07:29.702Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/images/debug.log\u001b[39m","time":"2016-11-17T03:07:29.705Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T03:07:30.092Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T03:07:30.092Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T03:07:30.092Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T03:07:30.092Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T03:07:30.092Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T03:07:30.092Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T03:07:30.093Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2016-11-17T03:07:30.099Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Database saved","time":"2016-11-17T03:07:30.113Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-11-17T03:07:31.829Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-11-17T03:07:33.545Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T03:07:34.774Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T03:07:37.219Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T03:07:38.618Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T03:12:32.576Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T03:12:32.733Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T03:12:32.733Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T03:12:32.734Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T03:12:32.734Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T03:12:32.734Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T03:12:32.734Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T03:12:32.734Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T03:12:34.942Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T03:12:35.694Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T03:12:48.468Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T03:12:48.607Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T03:12:48.607Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T03:12:48.607Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T03:12:48.607Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T03:12:48.607Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T03:12:48.607Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T03:12:48.607Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T03:12:50.441Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T03:12:50.932Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T03:13:29.182Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T03:13:29.338Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T03:13:29.338Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T03:13:29.338Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T03:13:29.338Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T03:13:29.338Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T03:13:29.338Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T03:13:29.338Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T03:13:31.936Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T03:13:32.660Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T03:13:42.615Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T03:13:42.769Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T03:13:42.769Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T03:13:42.770Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T03:13:42.770Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T03:13:42.771Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T03:13:42.771Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T03:13:42.771Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T03:13:44.229Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T03:13:44.874Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Processed: \u001b[35m_posts/C++指针问题.md\u001b[39m","time":"2016-11-17T03:13:54.153Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-11-17T03:13:54.287Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-11-17T03:13:54.287Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-11-17T03:13:54.287Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-11-17T03:13:54.287Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-11-17T03:13:54.289Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-11-17T03:13:54.289Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-11-17T03:13:54.290Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering post: \u001b[35m2016/11/16/C++指针问题/index.html\u001b[39m","time":"2016-11-17T03:13:55.709Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-11-17T03:13:56.140Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":30,"msg":"Farewell","time":"2016-11-17T03:15:20.662Z","v":0}
+{"name":"hexo","hostname":"ChenWang","pid":22645,"level":20,"msg":"Database saved","time":"2016-11-17T03:15:20.680Z","v":0}
